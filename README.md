@@ -19,3 +19,9 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/f3a987e9-9755-4c66-919c-681d3f87535f" width="100"/>
 </div>
+
+## ⚠️ Disclaimer
+
+For educational and testing purposes only.
+
+The use of third-party scripts may lead to account penalties, including bans. Users assume all responsibility for any risks associated with its use.
