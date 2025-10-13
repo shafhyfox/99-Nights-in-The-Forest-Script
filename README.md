@@ -23,5 +23,15 @@
 ## ⚠️ Disclaimer
 
 For educational and testing purposes only.
-
 The use of third-party scripts may lead to account penalties, including bans. Users assume all responsibility for any risks associated with its use.
+
+## 🚀 Script Features
+**Item, NPC & Chest ESP**: See all valuable resources, enemies, and loot inside walls for ultimate awareness.
+**Precision Aimbot**: Hold right-click to automatically lock on and eliminate any threat.
+**Instant Teleport**: Teleport directly to campfires, grinders, lost children, chests, and all major items instantly.
+**Full Fly Mode**: Use WASD, Space, and Shift to fly with complete freedom across the map (Toggle with Q).
+**Auto Tree Farm & Wood Gathering**: Automate the most tedious tasks with our advanced auto-farming system.
+**Adjustable Speed**: Move across the map faster than ever with a customizable speed multiplier.
+**Anti-Death Mechanism**: Automatically teleports you to safety when your health is critically low.
+**No Fog & Night Vision**: Toggle off environmental fog and gain clear vision, day or night.
+**Auto Attacks / Kill Aura**: Automatically defeat enemies that come too close.
