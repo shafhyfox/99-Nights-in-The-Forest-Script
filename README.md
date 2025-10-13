@@ -37,8 +37,7 @@ The use of third-party scripts may lead to account penalties, including bans. Us
 - **Auto Attacks / Kill Aura**: Automatically defeat enemies that come too close.
 
 ## 📖 How to Use This Script
-First, you need a Roblox script executor. We recommend Decryptor for its simplicity.
-GUI made it simple, you can execute script there easily.
-After executing open the Roblox game "99 Nights in the Forest".
-The Decryptor UI should appear, allowing you to configure all features.
-
+1.  First, you need a Roblox script executor. We recommend Decryptor for its simplicity.
+2.  GUI made it simple, you can execute script there easily.
+3.  After executing open the Roblox game "99 Nights in the Forest".
+4.  The Decryptor UI should appear, allowing you to configure all features.
