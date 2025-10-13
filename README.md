@@ -21,7 +21,6 @@
 </div>
 
 ## ⚠️ Disclaimer
-
 For educational and testing purposes only.
 The use of third-party scripts may lead to account penalties, including bans. Users assume all responsibility for any risks associated with its use.
 
@@ -41,3 +40,16 @@ The use of third-party scripts may lead to account penalties, including bans. Us
 2.  GUI made it simple, you can execute script there easily.
 3.  After executing open the Roblox game "99 Nights in the Forest".
 4.  The Decryptor UI should appear, allowing you to configure all features.
+
+## Contributing
+Community contributions are always welcome! If you're interested in improving the **99 nights in the forest script**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/Decryptor-j/Aviator-Predictor/blob/main/CONTRIBUTING.md).
+
+## Support
+If you run into any problems or have questions about Decryptor Executor Roblox, visit the “Releases” section for the latest updates and troubleshooting details. For additional help or to report issues, feel free to reach out through the “Issues” tab on this repository.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for choosing Decryptor Executor Roblox for your scripting needs. Dive into the world of Roblox with confidence and explore the endless possibilities that our executor has to offer. Happy scripting! 🚀🎮
