@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    // essential
+    "target": "ESNext",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "noLib": true,
+    "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleDetection": "force",
+    "strict": true,
+
+    // paths
+    "rootDir": "${configDir}/src",
+    "outDir": "${configDir}/dist",
+    "typeRoots": ["${configDir}/node_modules/@rbxts"],
+
+    // build info
+    "incremental": true,
+    "declaration": true,
+    "tsBuildInfoFile": "${configDir}/dist/tsconfig.tsbuildinfo",
+
+    // misc
+    "jsxFactory": "",
+    "jsxFragmentFactory": "",
+    "stripComments": true // same idea as removeComments
+  }
+}
