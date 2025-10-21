@@ -2,7 +2,8 @@
 	"Package Optimization Comment": {
 		"scope": "luau",
 		"prefix": "comment",
-		"description": "A comment to further improve luau's performance.",
+		"description": "A comment to further improve luau's performances.",
 		"body": "--!nocheck\n--!native\n\n"
 	}
 }
+
