@@ -2,7 +2,7 @@
   "type": "module",
   "packageManager": "pnpm@9.9.0",
   "description": "Custom Roblox executor build configuration",
-  "author": "Krampus",
+  "author": "Decryptor-j",
   "scripts": {
     "init": "rokit install && pnpm install -w && pnpm run analyze:prepare",
     "prepare": "node .husky/run.js",
@@ -20,4 +20,5 @@
     "cspell": "8.14.2",
     "shx": "0.3.4"
   }
+
 }
